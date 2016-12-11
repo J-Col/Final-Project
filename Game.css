@@ -42,7 +42,6 @@
 }
 .mover {
   postion: absolute;
-  top: 0;
 }
 body {overflow-x: hidden;}
 h1 {
