@@ -1,0 +1,52 @@
+  #header {
+		background-color: #f1f1f1;
+    min-height: 80px;
+	}
+	#main-wrap {
+		background-color: #D9D9D9;
+    overflow: hidden;
+	}
+	#sidebar {
+		background-color: #d2d2d2;
+    float: left;
+    width: 30%;
+	}
+	#content-wrap {
+		background-color: #c5c5c5;
+    float: right;
+    width: 70%;
+	}
+	#main-wrap > div {
+		min-height: 450px;
+	}
+  .mover {
+    postion: absolute;
+    top: 0;
+  }
+  body {overflow-x: hidden;}
+  h1 {
+    font-size: 500%;
+    font-style: Lucida;
+    text-decoration: none;
+    color: #F0FFFF;
+    background-color: #000000;
+  }
+  #prelude {
+    font-size: 300%;
+    text-decoration: none;
+    font-size: Lucida;
+    color: #000000;
+
+  }
+  .gameStart {
+    font-size: 800%;
+    height: 449px;
+    width: 572px;
+    position: absolute;
+    right: 1340px;
+    bottom: 365px;
+    text-decoration: none;
+    font-style: Lucida;
+    color: #008000;
+    background-color: #d2d2d2;
+  }
