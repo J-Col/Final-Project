@@ -59,6 +59,13 @@ h1 {
   color: #000000;
 
 }
+#prelude {
+  font-size: 300%;
+  text-decoration: none;
+  font-size: Lucida;
+  color: #000000;
+
+}
 .gameStart {
   font-size: 800%;
   height: 449px;
