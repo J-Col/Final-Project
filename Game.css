@@ -88,12 +88,12 @@ h1 {
 
 }
 .gameStart {
-  font-size: 800%;
+  font-size: 650%;
   height: 449px;
   width: 572px;
   position: absolute;
-  right: 1075px;
-  bottom: 150px;
+  right: 1073px;
+  bottom: 145px;
   text-decoration: none;
   font-style: Lucida;
   color: #008000;
