@@ -17,6 +17,11 @@
   height: 400px;
   width: 550px;
 }
+#carSlider {
+  position: absolute;
+  height: 400px;
+  width: 500px;
+}
 #userAnswer {
   font-size: 300%;
   text-decoration: none;
@@ -40,8 +45,25 @@
   text-decoration: none;
   font-style: Lucida;
 }
-.mover {
+.mover0 {
   position: absolute;
+  left: 0px;
+}
+.mover1 {
+  position: absolute;
+  left: 500px;
+}
+.mover2 {
+  position: absolute;
+  left: 990px;
+}
+.mover3 {
+  position: absolute;
+  left: 1475px;
+}
+.mover4 {
+  position: absolute;
+  left: 1950px;
 }
 body {overflow-x: hidden;}
 h1 {
