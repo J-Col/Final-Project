@@ -63,7 +63,7 @@
 }
 .mover4 {
   position: absolute;
-  left: 1950px;
+  left: 1500px;
 }
 body {overflow-x: hidden;}
 h1 {
@@ -92,8 +92,8 @@ h1 {
   height: 449px;
   width: 572px;
   position: absolute;
-  right: 1345px;
-  bottom: 365px;
+  right: 1075px;
+  bottom: 150px;
   text-decoration: none;
   font-style: Lucida;
   color: #008000;
